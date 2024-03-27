@@ -1,0 +1,13 @@
+.col {
+    margin-top: 80px; 
+    margin-left: 100px;
+  }
+  .divider:after,
+.divider:before {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: #eee;
+}
+
+  
